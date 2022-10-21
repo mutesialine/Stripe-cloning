@@ -25,7 +25,7 @@ module.exports = {
       width: {
         fit: "fit-content",
         "18r": "18rem",
-        "medium-width": "480px"
+        "medium-width":"480px"
       },
       fontSize: {
         eighty: "80px",
