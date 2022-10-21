@@ -897,6 +897,18 @@ video {
   background-image: url('../src/img/download.png');
 }
 
+.bg-\[url\(\'\.\/img\/download\.png\'\)\] {
+  background-image: url('./img/download.png');
+}
+
+.bg-\[url\(\'\.c\/img\/background\.png\'\)\] {
+  background-image: url('.c/img/background.png');
+}
+
+.bg-\[url\(\'\.\/img\/background\.png\'\)\] {
+  background-image: url('./img/background.png');
+}
+
 .bg-contain {
   background-size: contain;
 }
